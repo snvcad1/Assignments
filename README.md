@@ -19,3 +19,13 @@ The project explores the decision-making process of drivers when they receive a 
   - "No, I do not want the coupon" (Y = 0)
 
 - The survey covers five types of coupons: less expensive restaurants (under $20), coffee houses, carryout and takeaway, bars, and more expensive restaurants ($20–$50).
+
+
+## Prerequisites
+This project requires the following Python libraries:
+
+  - matplotlib.pyplot (for plotting)
+  - seaborn (for enhanced visualizations)
+  - pandas (for data manipulation)
+  - numpy (for numerical operations)
+  - termcolor (for text coloring)
