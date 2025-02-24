@@ -29,3 +29,20 @@ This project requires the following Python libraries:
   - pandas (for data manipulation)
   - numpy (for numerical operations)
   - termcolor (for text coloring)
+
+
+## Usage Summary
+To use the project:
+
+Clone the Repository: Use the command git clone https://github.com/rbhat/aiml-customer-code.git to clone the repository.
+Navigate to the Project Directory: Change your directory to the project folder using cd aiml-customer-code.
+Install Dependencies: Execute pip install -r requirements.txt to install the necessary dependencies.
+Open the Jupyter Notebook: Launch the notebook with jupyter notebook notebook.ipynb and run the cells to explore the analysis.
+Dependencies
+The project requires the following Python packages, which are listed in requirements.txt:
+
+matplotlib
+seaborn
+pandas
+numpy
+termcolor
