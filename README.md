@@ -42,8 +42,8 @@ To use the project:
 ## Dependencies
 The project requires the following Python packages, which are listed in requirements.txt:
 
-matplotlib
-seaborn
-pandas
-numpy
-termcolor
+- matplotlib
+- seaborn
+- pandas
+- numpy
+- termcolor
