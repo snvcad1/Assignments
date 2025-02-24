@@ -1,16 +1,16 @@
-### Summary
+### Customer Accept the Coupon
 
-**Practical Application 1: Setting Up Your GitHub Portfolio**
+## Overview**
 
-- **Assignment**: "Will the Customer Accept the Coupon?" is a required assignment worth 20 points, due by Wednesday at 11:29 am. It involves submitting a website URL and is available after February 19 at 8 am. This assignment is crucial for program completion.
+- The project aims to determine whether a customer will accept a driving coupon using visualizations and probability distributions. It requires completing the Practical Application 1 Jupyter Notebook.
+  
+### Problem Statement Summary
+
+The project explores the decision-making process of drivers when they receive a coupon on their phone for a nearby venue, such as a restaurant, bar, or coffee house. It examines whether drivers would use the coupon immediately, save it for later, or ignore it altogether. The study considers various influencing factors, including the type of venue, the presence of a passenger, weather conditions, time of day, and proximity to the venue. The primary goal is to understand the factors that drive coupon acceptance and develop a predictive model for coupon usage behavior.
 
 **Learning Outcome**
 
 - The assignment focuses on applying exploratory data analysis, plotting, statistical summarization, and data visualization skills to a machine learning problem.
-
-**Overview**
-
-- The project aims to determine whether a customer will accept a driving coupon using visualizations and probability distributions. It requires completing the Practical Application 1 Jupyter Notebook.
 
 **Data**
 
